@@ -4,7 +4,7 @@ My name is Kile and I write code in Python and TypeScript but I am trying to lea
 ## Contact me
 To reach me you can dm me (`Kile#0606`) or join my discord server
 
- <a> [![Discord Server](https://img.shields.io/discord/691713541262147687.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/8hPrwAH)
+ <a> [![Discord Server](https://img.shields.io/discord/691713541262147687.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/zXqDHkm)
 </a>
 
 
