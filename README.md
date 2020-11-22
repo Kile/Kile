@@ -1,6 +1,10 @@
 ## Hello!
 My name is Kile and I write code in Python and TypeScript but I am trying to learn new languages as well
 
+## Contact me
+To reach me you can dm me (`Kile#0606`) or join my discord server
+[![Discord Server](https://img.shields.io/discord/691713541262147687.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/8hPrwAH)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
