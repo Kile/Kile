@@ -1,8 +1,16 @@
+## Hello!
+My name is Kile and I write code in Python and TypeScript but I am trying to learn new languages as well
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+### Current projects
+* [Pylon docs](https://github.com/Kile/Pylondocs) are examples codes for the offical [Pylon](https://pylon.bot) docs
+* [Schoolstuff](https://github.com/Kile/Schoolstuff), Projects from my Computer Science projects
+* [A tag system](https://github.com/Kile/tags), written and intended to be used with [Pylon](https://pylon.bot) being an easy-to-understand open source project creating a useful tag system
+* [Killua](https://github.com/Kile/killua), currently private discord bot written in Python, it will be open source eventually though. For testing him out invite him [here](https://discord.com/oauth2/authorize?client_id=756206646396452975&scope=bot&permissions=1574431991)
 
 ## &#x1f4c8; GitHub Stats
 
