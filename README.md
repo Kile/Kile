@@ -2,10 +2,11 @@
 My name is Kile and I write code in Python and TypeScript but I am trying to learn new languages as well
 
 ## Contact me
+To reach me you can dm me (`Kile#0606`) or join my discord server
+
  <a> [![Discord Server](https://img.shields.io/discord/691713541262147687.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/8hPrwAH)
 </a>
 
-To reach me you can dm me (`Kile#0606`) or join my discord server
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -20,10 +21,10 @@ To reach me you can dm me (`Kile#0606`) or join my discord server
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Kile/introduction">
+<a href="https://github.com/Kile/Kile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Kile/introduction">
+<a href="https://github.com/Kile/Kile">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kile&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kile's GitHub Stats" />
 </a>
 <a href="https://github.com/Kile/Pylondocs">
