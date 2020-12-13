@@ -13,7 +13,7 @@ To reach me you can dm me (`Kile#0606`) or join my discord server
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-### Current projects
+## Current projects
 * [Pylon docs](https://github.com/Kile/Pylondocs) are examples codes for the offical [Pylon](https://pylon.bot) docs
 * [Schoolstuff](https://github.com/Kile/Schoolstuff), Projects from my Computer Science projects
 * [A tag system](https://github.com/Kile/tags), written and intended to be used with [Pylon](https://pylon.bot) being an easy-to-understand open source project creating a useful tag system
