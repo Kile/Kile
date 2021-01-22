@@ -2,7 +2,7 @@
 My name is Kile and I write code in Python and TypeScript but I am trying to learn new languages as well
 
 ## Contact me
-To reach me you can dm me (`Kile#0606`) or join my discord server
+To reach me you can dm me on discord (`Kile#0606`) or join my server
 
  <a> [![Discord Server](https://img.shields.io/discord/691713541262147687.svg?label=Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/zXqDHkm)
 </a>
@@ -16,8 +16,8 @@ To reach me you can dm me (`Kile#0606`) or join my discord server
 ## Current projects
 * [Pylon docs](https://github.com/Kile/Pylondocs) are examples codes for the offical [Pylon](https://pylon.bot) docs
 * [Schoolstuff](https://github.com/Kile/Schoolstuff), Projects from my Computer Science projects
-* [A tag system](https://github.com/Kile/tags), written and intended to be used with [Pylon](https://pylon.bot) being an easy-to-understand open source project creating a useful tag system
-* [Killua](https://github.com/Kile/killua), currently private discord bot written in Python, it will be open source eventually though. For testing him out invite him [here](https://discord.com/oauth2/authorize?client_id=756206646396452975&scope=bot&permissions=1574431991)
+* [Pylon tag system](https://github.com/Kile/tags), written and intended to be used with [Pylon](https://pylon.bot) being an easy-to-understand open source project creating a useful tag system
+* [Killua](https://github.com/Kile/killua), my open source discord bot. For testing him out invite him [here](https://discord.com/oauth2/authorize?client_id=756206646396452975&scope=bot&permissions=1574431991)
 
 ## &#x1f4c8; GitHub Stats
 
