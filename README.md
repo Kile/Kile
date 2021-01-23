@@ -17,7 +17,7 @@ To reach me you can dm me on discord (`Kile#0606`) or join my server
 * [Pylon docs](https://github.com/Kile/Pylondocs) are examples codes for the offical [Pylon](https://pylon.bot) docs
 * [Schoolstuff](https://github.com/Kile/Schoolstuff), Projects from my Computer Science class
 * [Pylon tag system](https://github.com/Kile/tags), written and intended to be used with [Pylon](https://pylon.bot) being an easy-to-understand open source project creating a useful tag system
-* [Killua](https://github.com/Kile/killua), my open source discord bot. For testing him out invite him [here](https://discord.com/oauth2/authorize?client_id=756206646396452975&scope=bot&permissions=1574431991)
+* [Killua](https://github.com/Kile/killua), my open source discord bot. For testing him out invite him [here](https://discord.com/oauth2/authorize?client_id=756206646396452975&scope=bot&permissions=268723414)
 
 ## &#x1f4c8; GitHub Stats
 
