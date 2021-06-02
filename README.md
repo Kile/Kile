@@ -1,3 +1,10 @@
+<p align="center">
+  <a href"https://github.com/Kile">
+     <img src="https://cdn.discordapp.com/attachments/829351663042166804/849654065976836156/Done2.jpg">
+  </a>
+</p>
+
+
 ## Hello!
 My name is Kile and I write code in Python and TypeScript but I am trying to learn new languages as well
 
