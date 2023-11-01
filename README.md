@@ -1,8 +1,4 @@
-<p align="center">
-  <a href"https://github.com/Kile">
-     <img src="profile_image.png">
-  </a>
-</p>
+
 
 ## Hello!
 My name is Kile and I write code in Python, TypeScript and rust. I am also trying to learn new languages. I am for hire for your projects as well
