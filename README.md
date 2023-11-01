@@ -1,7 +1,7 @@
 
 
 ## Hello!
-My name is Kile and I write code in Python, TypeScript and rust. I am also trying to learn new languages. I am for hire for your projects as well
+My name is Kile (not really) and I write code in Python, TypeScript and rust. I am also trying to learn new languages. I am for hire for your projects as well
 
 ## Contact me
 To reach me you can dm me on discord (`Kile#0606`) or join my server. You can also send me an email: `killua.bot.help@gmail.com`
